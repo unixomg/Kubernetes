@@ -1,3 +1,5 @@
+# It is a demo for deploy nginx-deployment deploy.
+
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
